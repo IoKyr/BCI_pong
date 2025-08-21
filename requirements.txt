@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pyserial
+jupyterlab
+notebook
+ipympl
+jupyter
